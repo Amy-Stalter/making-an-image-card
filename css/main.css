@@ -28,7 +28,7 @@ html {
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 100%
+  width: 100%;
 }
 
 .card-label {
@@ -38,4 +38,8 @@ html {
   position: absolute;
   left: 0;
   top: 0;
+}
+
+.card-head {
+  position: relative;
 }
